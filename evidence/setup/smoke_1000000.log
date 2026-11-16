@@ -1,0 +1,14 @@
+Patrimonio final:          10000
+Ordenes ejecutadas:        0
+Perdida maxima:            0
+No operar:                 10000
+Comprar y mantener:        9731
+Peor caso precio->decision: 18 ciclos (disponibles: 24762)
+Detalle por tick en decisiones.csv
+PASS MISO sin valores X
+PASS una respuesta por precio
+PASS ultima respuesta completada
+PASS el programa lee todos los precios
+PASS la decision llega antes del siguiente tick
+Testbenchs aprobados: 5/5
+build/smoke_1000000.sv:157: $finish called at 5004000000 (1ps)
